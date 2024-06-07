@@ -1,6 +1,6 @@
 # 500W-IOT-BASED-SOLAR-GENERATING-STATION
 500W IOT BASED SOLAR GENERATING STATION
-This project involves the development of an IoT-based solar inverter monitoring system using an ESP32/ESP8266 microcontroller. The system monitors various parameters such as AC voltage, current, battery voltage, and power (wattage). These parameters are displayed on an LCD and are also sent to Firebase Realtime Database for remote monitoring. The system can also control a relay based on the state retrieved from Firebase.
+This project involves the development of an IoT-based solar inverter monitoring system using an ESP32/ESP8266 microcontroller. The system monitors various parameters such as AC voltage, current, battery voltage, and power (wattage). These parameters are displayed on an LCD and are also sent to Firebase Realtime Database for remote monitoring. The system can also control a relay based on the state retrieved from Firebase.The code that was used was written as an ardunio sketch using c programming language.
 
 # Components Used
 ESP32/ESP8266
